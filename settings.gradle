@@ -1,0 +1,2 @@
+include ':app', ':unitynativepluginlibrary'
+rootProject.name='UnityNativePlugin'
